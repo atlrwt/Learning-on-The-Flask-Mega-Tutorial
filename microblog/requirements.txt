@@ -9,6 +9,8 @@ click @ file:///home/conda/feedstock_root/build_artifacts/click_1666798198223/wo
 cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography-split_1679811332750/work
 dnspython @ file:///home/conda/feedstock_root/build_artifacts/dnspython_1673812078720/work
 dominate @ file:///home/conda/feedstock_root/build_artifacts/dominate_1658750351069/work
+elastic-transport @ file:///home/conda/feedstock_root/build_artifacts/elastic-transport_1661458726921/work
+elasticsearch @ file:///home/conda/feedstock_root/build_artifacts/elasticsearch_1680814253228/work
 email-validator @ file:///home/conda/feedstock_root/build_artifacts/email-validator-meta_1674346294289/work
 Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1676592993069/work
 flask-babel @ file:///home/conda/feedstock_root/build_artifacts/flask-babel_1680938859298/work
@@ -33,6 +35,7 @@ pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_16362571
 PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1666240235902/work
 pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1680037383858/work
 PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1677227146928/work
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1680088766131/work
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1680286922386/work
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
